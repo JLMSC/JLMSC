@@ -69,7 +69,8 @@
   </div>
 
   <!-- Extra -->
-  <br>
   <img src="https://komarev.com/ghpvc/?username=jlmsc&label=views&color=5b5b5b&style=flat-square" alt="jlmsc"/>
 
+  <!-- Bottom SVG -->
+  ![Bottom](https://github.com/JLMSC/JLMSC/assets/39315631/967f96d4-ae05-4018-ad7f-761a22dcffa8)
 </div>
