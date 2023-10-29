@@ -70,7 +70,7 @@
 
   <!-- Extra -->
   <img src="https://komarev.com/ghpvc/?username=jlmsc&label=views&color=5b5b5b&style=flat-square" alt="jlmsc"/>
-  <img src="https://img.shields.io/github/followers/jlmsc.svg?style=social&label=Follow&maxAge=2592000" alt="jlmsc"/>
+  <img src="https://img.shields.io/github/followers/jlmsc.svg?style=social&label=Follow" alt="jlmsc"/>
 
   <!-- Bottom SVG -->
   ![Bottom](https://github.com/JLMSC/JLMSC/assets/39315631/967f96d4-ae05-4018-ad7f-761a22dcffa8)
