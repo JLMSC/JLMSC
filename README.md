@@ -1,77 +1,39 @@
-<div id="header" align="center">
-  <!-- Title -->
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=48&duration=4000&pause=2000&color=5B5B5B&center=true&vCenter=true&width=500&height=48&lines=Joan+Lucas" alt="Typing SVG"/>
-  <br>
-  <!-- Subtitle -->
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&size=16&duration=4000&pause=2000&color=5B5B5B&center=true&vCenter=true&width=500&height=16&lines=Also+known+as+JLMSC" alt="Typing SVG"/>
+<img align="left" width="100" height="100" src="https://steamuserimages-a.akamaihd.net/ugc/1844790697601020783/128114CC7921F14CE17241109B37484A46FC7CAC/">
+👋 Hello! I'm <ins><b>Joan Lucas</b></ins> /<i><sub>aka JLMSC</sub></i>
 
-  <!-- Title Breakline -->
-  ##  
+> 💻 Data Scientist *&* Game Developer
+---
 
-  <!-- About Me -->
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=32&duration=1&pause=100000&color=5B5B5B&center=true&vCenter=true&width=500&height=32&lines=About+Me" alt="Typing SVG"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=40&size=16&duration=1&pause=100000&color=5B5B5B&center=true&vCenter=true&width=500&height=16&lines=Passionate+developer%2C+tech+enthusiast+and+curious" alt="Typing SVG"/>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=40&size=16&duration=1&pause=100000&color=5B5B5B&center=true&vCenter=true&width=500&height=16&lines=learner%2C+always+exploring+new+technologies." alt="Typing SVG"/>
+<img align="right" width="125" height="125" src="https://steamuserimages-a.akamaihd.net/ugc/1844791198691349643/D94F9A18078209CA856BDA44D70AEBDA04308055/">
+<p align="middle">
+  🎲 <b>Things I <i>use</i></b> /<i><sub>know</sub></i><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=20/><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height=20/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=20/>
+</p>
 
-  <!-- Known Technologies -->
-  <br>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=32&duration=1&pause=100000&color=5B5B5B&center=true&vCenter=true&width=500&height=32&lines=Known+Technologies" alt="Typing SVG"/>
-  <div id="known_technologies">
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height=30/>
-    <!-- Jupyer -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=30/>
-    <!-- VSCode -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height=30/>
-    <!-- Git -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=30/>
-    <!-- Tensorflow -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height=30/>
-    <!-- OpenCV -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height=30/>
-    <!-- MySQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height=30/>
-    <!-- PostgreSQL -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height=30/>
-    <!-- C++ -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=30/>
-    <!-- Docker -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height=30/>
-    <!-- Linux -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=30/>
-    <!-- Bash -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height=30/>
-    <!-- Vim -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height=30/>
-  </div>
+---
 
-  <!-- Contact Me -->
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=32&duration=1&pause=100000&color=5B5B5B&center=true&vCenter=true&width=500&height=32&lines=Contact+Me" alt="Typing SVG"/>
-  <div id="contact_me">
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/jlmsc" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white target="_blank">
-    </a>
-    <!-- Gmail -->
-    <a href="mailto:joanlucas314@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <!-- Github -->
-    <a href="https://github.com/JLMSC" target="_blank">
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-    </a>
-    <!-- Discord -->
-    <img src="https://img.shields.io/badge/jlmsc-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
-  </div>
+<img align="left" width="100" height="100" src="https://steamuserimages-a.akamaihd.net/ugc/1844790697601015783/F51726E6DED671A731DE899E628E0EFE7556F656/">
+📫 <b>Contact me</b><br><br>
+<p align="left">
+  <a href="https://www.linkedin.com/in/jlmsc" target="_blank"><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white target="_blank" width="80"></a>
+  <a href="mailto:joanlucas314@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" width="60"></a>
+  <img src="https://img.shields.io/badge/jlmsc-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" width="60"><br>
+</p>
 
-  <!-- Extra -->
-  <img src="https://komarev.com/ghpvc/?username=jlmsc&label=views&color=5b5b5b&style=flat-square" alt="jlmsc"/>
-  <img src="https://img.shields.io/github/followers/jlmsc.svg?style=social&label=Follow" alt="jlmsc"/>
+---
 
-  <!-- Bottom SVG -->
-  ![Bottom](https://github.com/JLMSC/JLMSC/assets/39315631/967f96d4-ae05-4018-ad7f-761a22dcffa8)
-</div>
+<p align="middle">
+  <img align="right" width="100" height="100" src="https://steamuserimages-a.akamaihd.net/ugc/1844790697600975686/96B780B1012DD710028CB4453818412FCE1B576B/">
+  <img src="https://komarev.com/ghpvc/?username=jlmsc&label=visitors&color=5b5b5b&style=flat-square" alt="jlmsc"/><br>
+  <img src="https://img.shields.io/github/followers/jlmsc.svg?style=social&label=Follow me" alt="jlmsc"/>
+</p>
