@@ -41,7 +41,7 @@
 
   <tr>
     <td>
-      <img align="left" width="100" height="100" src="https://steamuserimages-a.akamaihd.net/ugc/1844790697601015783/F51726E6DED671A731DE899E628E0EFE7556F656/">
+      <img align="left" width="125" height="125" src="https://steamuserimages-a.akamaihd.net/ugc/1844790697601015783/F51726E6DED671A731DE899E628E0EFE7556F656/">
     </td>
     <td>
       <p align="left">
