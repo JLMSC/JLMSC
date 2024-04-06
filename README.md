@@ -1,8 +1,7 @@
 ---
 
 👋 Hello, I'm **Joan Lucas**<sub>/*aka JLMSC*</sub>, pleased to make your acquaintance.<br>
-> 💻 Data Scientist<br>
-> 🎮 Game Developer
+> 💻 Data Scientist & Machine Learning Engineer
 
 > [!TIP]
 > 📫 <b>Contact me</b><br>
