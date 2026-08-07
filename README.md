@@ -1,5 +1,5 @@
 ## Joan Lucas
 
-**AI Engineer** *(bacharel em Ciência da Computação)*<br>
-    - Atuo na arquitetura *(workflows)* e deploy de agentes em ambiente de produção.<br>
-**Mestrando** em *Engenharia de Sistemas e Inteligência Artificial*, atualmente com foco em agentes.<br>
+**AI Engineer** *(B.Sc. In Computer Science)*.<br>
+    - Architecting *(workflows)* and deploying agentic systems into production.<br>
+**M.Sc.** In *Applied Informatics* *(System Engineering & Artificial Intelligence)*<br>
