@@ -1,0 +1,83 @@
+[project]
+# TODO:
+name = ""
+# TODO:
+version = ""
+# TODO:
+description = ""
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
+
+[tool.pyright]
+include = ["source"]
+exclude = ["**/__pycache__", "**/node_modules", "**/.*", ".venv"]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.13"
+
+strictListInference = true
+strictDictionaryInference = true
+strictSetInference = true
+analyzeUnannotatedFunctions = true
+strictParameterNoneValue = true
+enableTypeIgnoreComments = false
+
+typeCheckingMode = "strict"
+
+reportCallInDefaultInitializer = "error"
+reportImplicitOverride = "error"
+reportImplicitStringConcatenation = "error"
+reportImportCycles = "error"
+reportMissingSuperCall = "error"
+reportPropertyTypeMismatch = "error"
+reportUninitializedInstanceVariable = "error"
+reportUnnecessaryTypeIgnoreComment = "error"
+reportUnreachable = "error"
+reportUnusedCallResult = "error"
+
+[tool.ruff]
+line-length = 88
+indent-width = 4
+
+[tool.ruff.format]
+docstring-code-format = true
+docstring-code-line-length = 88
+indent-style = "space"
+line-ending = "cr-lf"
+nested-string-quote-style = "alternating"
+quote-style = "single"
+skip-magic-trailing-comma = true
+
+[tool.ruff.lint]
+select = ["E", "F", "B", "Q", "D", "ANN", "UP", "S", "A", "SIM", "ARG"]
+ignore = ["D100", "D105", "D203", "D213", "D104"]
+
+[tool.ruff.lint.flake8-quotes]
+avoid-escape = true
+docstring-quotes = "double"
+inline-quotes = "single"
+multiline-quotes = "double"
+
+[tool.isort]
+py_version = 313
+extend_skip_glob = [
+    "**/*.md",
+    "**/*.txt",
+    "**/*.toml",
+    "**/*.lock",
+    "**/*.yaml",
+    "**/dockerfile",
+    "**/LICENSE",
+    "**/.*",
+]
+skip_gitignore = true
+line_length = 88
+wrap_length = 88
+no_sections = false
+multi_line_output = 3
+indent = 4
+length_sort = true
+lines_after_imports = 2
+include_trailing_comma = true
+split_on_trailing_comma = true
